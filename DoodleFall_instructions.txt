@@ -1,0 +1,44 @@
+Alexandra Qin
+05/05/10
+			
+				========================
+				DOODLE FALL INSTRUCTIONS
+				========================
+
+
+DoodleFall is like a "reverse" DoodleJump.
+
+To play DoodleFall, execute MainGame.java.
+To start the game, click on the applet viewer and press space.
+Doodle will then start falling.
+
+You must guide Doodle (player) left and right, using the keyboard arrows, 
+in order to avoid the green platforms (enemy) and catch the blue bonuses.
+
+The further down you get, the harder it becomes to dodge the platforms.
+When you reach 100 points, you speed up.
+When you reach 150 points, two platforms start to move.
+When you reach 300 points, four platforms start to move.
+When you reach 400 points, you speed up again.
+
+If you lose 4 lives, you Game Over.
+
+My high score is 1000 points, try to beat it!
+
+
+----------------
+APPLET OVERVIEW
+----------------
+- GameMain.java 
+- GamePlayer.java
+- GameEnemy.java
+- GameBonus.java
+- GC.java (game constants)
+
+The images are in the GameImages folder:
+- doodle1.gif (player)
+- doodle2.gif (enemy)
+- doodle3.gif (background)
+- bonuss.gif (bonus)
+- coeur.gif (life)
+
